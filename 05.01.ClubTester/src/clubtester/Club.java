@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Store details of club membership objects in a flexible-size collection.
  * @author Papanastasis Zacharias
- * @version 2.11.2012
+ * @version 2.11.2015
  */
 public class Club {
     public ArrayList<Membership> clubList; // A flexible-size collection storing the members
