@@ -3,7 +3,7 @@ package clubtester;
 /**
  * Store details of a club membership.
  * @author Papanastasis Zacharias
- * @version 2.11.2012
+ * @version 2.11.2015
  */
 public class Membership {
     private String name; // The name of the member
