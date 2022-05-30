@@ -1,5 +1,5 @@
 # ClubTester
-A simple management system for the members at a club \n
+A simple management system for the members at a club
 
 
 3 classes are contained Membership, Club and ClubTester
