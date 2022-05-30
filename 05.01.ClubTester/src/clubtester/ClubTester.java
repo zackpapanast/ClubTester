@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Testing the Club class.
  * @author Papanastasis Zacharias
- * @version 25.10.2012
+ * @version 25.10.2015
  */
 public class ClubTester {
 
